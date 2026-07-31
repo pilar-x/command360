@@ -1,0 +1,8 @@
+{
+  "name": "Remix COMMAND360 - Yonif TP Command Center",
+  "description": "Sistem Pusat Komando \u0026 Pengendalian Teritorial Pembangunan Yonif TP (Combat Readiness, Territorial Development, EKKO/Binsat, Sub-Kompi \u0026 Staff Engine)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
